@@ -2,7 +2,7 @@
 An android application able to SignUp and SignIn users using SQLite database.
 
 Splash Screen ==>> Entering The Application
-![image](https://user-images.githubusercontent.com/95628601/203029195-9f3bcf28-c2ed-4a6e-8d2e-2fa3bf134dc9.png)
+![image](https://user-images.githubusercontent.com/95628601/203030261-d870f5d6-a5fd-4c91-95cd-13b326541c81.png)
 
 
 
